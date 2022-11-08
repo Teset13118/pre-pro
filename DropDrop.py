@@ -1,5 +1,6 @@
 """Comment here"""
 def main():
+    """main"""
     cat = float(input())
     if cat >= 2:
         print("I'm so happy.")
